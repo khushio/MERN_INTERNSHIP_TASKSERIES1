@@ -1,0 +1,31 @@
+div {
+      border: 1px solid black;
+      width: 200px;
+    padding-left: 5px;
+    padding-right: 5px;
+      border-bottom: 0px;
+     
+}
+ul {
+    list-style-type: none;
+    padding:0px ;
+    width: 200px;
+    background-color: #33f6f0;
+
+}
+
+li a {
+    display: block;
+    color: blue;
+    font: size 25px;;
+    font-family:'Times New Roman', Times, serif;
+    padding: 15px 26px 8px 16px;
+    text-decoration: none;
+    text-align: center;
+}
+li a:hover {
+    background-color: #f7ff1df3;
+    color: white;
+}
+
+

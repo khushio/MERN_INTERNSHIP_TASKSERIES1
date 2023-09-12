@@ -1,0 +1,11 @@
+table{
+    border:2px solid black;
+    background: rgb(70, 186, 254);
+    width: 800px;
+    margin: auto;
+    border-radius: 15px;
+    margin-top: 10%;
+}
+th,td{
+    border-radius: 50px;
+}
